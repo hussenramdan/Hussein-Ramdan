@@ -4,6 +4,7 @@
 
 # 👋 Hi, I'm Hussein Ramadan  
 💻 Beginner Programmer | C, C++, Python & Web Development Learner 🚀  
+![](https://komarev.com/ghpvc/?username=husseinramdan&label=Profile%20Views&color=blue&style=flat)
 
 </div>
 
